@@ -9,4 +9,6 @@ Product Owner: Stiwarth Vega ; email: stewartvega99@gmail.com
 
 Administrador de BD: Jonathan Garzón ; email: orleycdt@gamil.com
 
-# Revisado
+Nombre Administrador de BD: Jonathan Garzón ; email: orleycdt@gmail.com
+
+Revisado
