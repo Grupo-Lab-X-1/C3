@@ -7,6 +7,6 @@ Nombre Analista-Developer: Julian Andres Guarin Gutierrez; email: ing.jaguarin@g
 
 Product Owner: Stiwarth Vega ; email: stewartvega99@gmail.com
 
-Administrador de BD: Jonathan Garzón ; email: orleycdt@gamil.com
+Administrador de BD: Jonathan O. Garzón Orozco ; email: orleycdt@gamil.com
 
 # Revisado
