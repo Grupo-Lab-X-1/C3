@@ -6,3 +6,5 @@ Nombre Scrum Master: David Alejandro Hurtado Palma; email:dalejandrohurtadop@gma
 Nombre Analista-Developer: Julian Andres Guarin Gutierrez; email: ing.jaguarin@gmail.com 
 
 Product Owner: Stiwarth Vega ; email: stewartvega99@gmail.com
+
+Administrador de BD: Jonathan Garzón ; email: orleycdt@gamil.com
