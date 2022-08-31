@@ -1,15 +1,47 @@
  /* Creacion inicial de documento */
- /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
-package empresa;
+ 
+ package Sprint2;
 
-/**
- *
- * @author Alejo
- */
+public class MovimientoDinero extends Empleado {
+    private double monto;
+    private String conceptoMovimiento;
+
+    public MovimientoDinero() {
+    }
+
+    public MovimientoDinero(double monto, String conceptoMovimiento) {
+        this.monto = monto;
+        this.conceptoMovimiento = conceptoMovimiento;
+    }
+
+    public double getMonto() {
+        return monto;
+    }
+
+    public void setMonto(double monto) {
+        this.monto = monto;
+    }
+
+    public String getConceptoMovimiento() {
+        return conceptoMovimiento;
+    }
+
+    public void setConceptoMovimiento(String conceptoMovimiento) {
+        this.conceptoMovimiento = conceptoMovimiento;
+    }
+
+    @Override
+    public String toString() {
+        return "MovimientoDinero {" +
+                "monto=" + monto +
+                ", conceptoMovimiento='" + conceptoMovimiento + '\'' +
+                '}';
+    }
+}
+
+
 public class Empresa {
+
     /*Creación de atributos: Nombre, Direccion, Telefono y Nit.*/
     private String nombre, direccion,telefono, nit;
     
@@ -44,3 +76,4 @@ public class Empresa {
     }
      
 }                     
+
